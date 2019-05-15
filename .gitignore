@@ -29,3 +29,4 @@ DerivedData/
 !*.xcworkspace/contents.xcworkspacedata
 /*.gcno
 node_modules
+nodejs-assets/.DS_Store
