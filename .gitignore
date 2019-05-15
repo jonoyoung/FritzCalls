@@ -30,3 +30,4 @@ DerivedData/
 /*.gcno
 node_modules
 nodejs-assets/.DS_Store
+.DS_Store
