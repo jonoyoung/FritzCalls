@@ -31,11 +31,4 @@ password and server would be the most common changes, so make sure this is all c
 Here are some screenshots to show what the app looks like running on a simulator. I was going for a simple and clean design approach
 when creating this app. Much like alot of the work that I create, I like ease of use and clutter free designs.
 
-Here is the homepage.
-![alt tag](https://i.imgur.com/tfMocGG.png "Homepage")
-
-This list shows all of the most recent calls, the list can hold up to 400 calls.
-![alt tag](https://i.imgur.com/sx7pSkB.png "All calls list")
-
-This is the call detail, this shows the relevant information for the call listed.
-![alt tag](https://i.imgur.com/ocS9ZMF.png "Call detail")
+![alt tag](https://i.imgur.com/tfMocGG.png "Homepage") ![alt tag](https://i.imgur.com/sx7pSkB.png "All calls list") ![alt tag](https://i.imgur.com/ocS9ZMF.png "Call detail")
